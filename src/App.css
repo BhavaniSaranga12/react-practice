@@ -1,0 +1,20 @@
+
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+  
+
+}
+li {
+  list-style: none;
+  padding: 1.5rem;
+  cursor: pointer;
+}
+.nav-link {
+  color: aliceblue;
+  font-weight: 500;
+  text-decoration: none;
+}
